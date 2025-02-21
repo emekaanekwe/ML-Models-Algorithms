@@ -1,4 +1,4 @@
-# this should result in a bad fit.
+# this should result in a bad fit
 from scipy import stats
 
 x = [5,7,8,7,2,17,2,9,4,11,12,9,6]
